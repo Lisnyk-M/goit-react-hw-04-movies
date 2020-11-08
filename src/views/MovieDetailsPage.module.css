@@ -1,0 +1,20 @@
+.posterImg {
+    /* display: block; */
+    width: 300px;
+    height: auto; 
+}
+
+.posterWrap {
+    /* border: solid 1px red;
+    width: 300px;
+    height: 200px; */
+    width: 300px;
+}
+
+.description {
+    padding-left: 10px;
+}
+
+.wrapPage {
+    display: flex;
+}
